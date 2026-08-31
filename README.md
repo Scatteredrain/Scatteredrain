@@ -14,23 +14,23 @@ I'm **Zhenyu Yi (伊振宇)**, a first-year M.S. student at **Shanghai Jiao Tong
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scatteredrain&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scatteredrain&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scatteredrain&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  ![Total Stars](https://img.shields.io/github/stars/Scatteredrain?affiliations=OWNER&style=for-the-badge&label=Total%20Stars&color=gold)
+  ![Followers](https://img.shields.io/github/followers/Scatteredrain?style=for-the-badge&label=Followers&color=blue)
+  ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Scatteredrain&query=public_repos&label=Public%20Repos&style=for-the-badge&color=green)
+  
 </div>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🏆 SALI — MICCAI 2024 Oral (52+ stars)
+### 🏆 SALI — MICCAI 2024 Oral
 **Short-term Alignment and Long-term Interaction Network for Colonoscopy Video Polyp Segmentation**
 
 [![GitHub](https://img.shields.io/badge/GitHub-SALI-blue?logo=github)](https://github.com/Scatteredrain/SALI)
 [![Stars](https://img.shields.io/github/stars/Scatteredrain/SALI?style=social)](https://github.com/Scatteredrain/SALI/stargazers)
+[![License](https://img.shields.io/github/license/Scatteredrain/SALI)](https://github.com/Scatteredrain/SALI/blob/main/LICENSE)
 
 ---
 
@@ -63,14 +63,6 @@ I'm **Zhenyu Yi (伊振宇)**, a first-year M.S. student at **Shanghai Jiao Tong
 
 [![GitHub](https://img.shields.io/badge/GitHub-PhenoMIL-blue?logo=github)](https://github.com/Scatteredrain/PhenoMIL)
 [![Stars](https://img.shields.io/github/stars/Scatteredrain/PhenoMIL?style=social)](https://github.com/Scatteredrain/PhenoMIL/stargazers)
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scatteredrain&theme=radical&hide_border=true" alt="Activity Graph" />
-</div>
 
 ---
 
