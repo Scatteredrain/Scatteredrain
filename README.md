@@ -53,8 +53,8 @@ I'm **Zhenyu Yi (伊振宇)**, a first-year M.S. student at **Shanghai Jiao Tong
 ### 📦 MonoBox — AAAI 2025
 **Tightness-free Box-supervised Polyp Segmentation using Monotonicity Constraint**
 
-[![GitHub](https://img.shields.io/badge/GitHub-MonoBox-blue?logo=github)](https://github.com/Scatteredrain/MonoBox)
-[![Stars](https://img.shields.io/github/stars/Scatteredrain/MonoBox?style=social)](https://github.com/Scatteredrain/MonoBox/stargazers)
+[![GitHub](https://img.shields.io/badge/GitHub-MonoBox-blue?logo=github)](https://github.com/Huster-Hq/MonoBox)
+[![Stars](https://img.shields.io/github/stars/Huster-Hq/MonoBox?style=social)](https://github.com/Huster-Hq/MonoBox/stargazers)
 
 ---
 
