@@ -34,15 +34,7 @@ I'm **Zhenyu Yi (伊振宇)**, a first-year M.S. student at **Shanghai Jiao Tong
 
 ---
 
-### 🧠 EndoVLM — MICCAI 2026
-**Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment**
-
-[![GitHub](https://img.shields.io/badge/GitHub-EndoVLM-blue?logo=github)](https://github.com/Scatteredrain/EndoVLM)
-[![Stars](https://img.shields.io/github/stars/Scatteredrain/EndoVLM?style=social)](https://github.com/Scatteredrain/EndoVLM/stargazers)
-
----
-
-### 🧩 Brain-Adapter — MICCAI 2026
+### 🧠 Brain-Adapter — MICCAI 2026
 **Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Brain--Adapter-blue?logo=github)](https://github.com/Scatteredrain/Brain-Adapter)
@@ -66,13 +58,20 @@ I'm **Zhenyu Yi (伊振宇)**, a first-year M.S. student at **Shanghai Jiao Tong
 
 ---
 
+### 🧩 EndoVLM
+**Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment**
+
+[![GitHub](https://img.shields.io/badge/GitHub-EndoVLM-blue?logo=github)](https://github.com/Scatteredrain/EndoVLM)
+[![Stars](https://img.shields.io/github/stars/Scatteredrain/EndoVLM?style=social)](https://github.com/Scatteredrain/EndoVLM/stargazers)
+
+---
+
 ## 🏅 Achievements
 
 - **MICCAI 2024 Oral** (Top 3%) — SALI
-- **8+ Papers** Published / Under Review
-- **MICCAI 2026** — EndoVLM, Brain-Adapter, E-MRL, CerviThink
 - **CVPR 2026** — SAMIX
 - **AAAI 2025** — MonoBox
+- **8+ Papers** Published / Under Review
 
 ---
 
