@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Zhenyu Yi (伊振宇)**, a first-year M.S. student at **Shanghai Jiao Tong University**, advised by [Lichi Zhang](https://scholar.google.com/citations?user=YEYK0MoAAAAJ&hl=zh-CN) and [Qian Wang](https://scholar.google.com/citations?hl=zh-CN&user=m6ZNDewAAAAJ).
+I'm **Zhenyu Yi (伊振宇)**, M.S. student at **Shanghai Jiao Tong University**, advised by [Lichi Zhang](https://scholar.google.com/citations?user=YEYK0MoAAAAJ&hl=zh-CN) and [Qian Wang](https://scholar.google.com/citations?hl=zh-CN&user=m6ZNDewAAAAJ).
 
 🔭 **Research Focus**: Computer Vision and Medical AI
 - Endoscopic image & video analysis
